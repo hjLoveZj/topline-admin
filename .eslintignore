@@ -1,0 +1,2 @@
+# 忽略 Eslint 校验的文件 放到这里
+src/vendor/gt.js
